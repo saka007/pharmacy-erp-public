@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="8" fill="#3B82F6"/>
+  <path d="M20 12L20 28M12 20L28 20" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <text x="48" y="16" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Pharmacy</text>
+  <text x="48" y="30" font-family="Arial, sans-serif" font-size="12" fill="#6B7280">ERP</text>
+</svg>
